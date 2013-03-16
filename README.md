@@ -1,7 +1,8 @@
 Banorte-Payworks-PHP
 ====================
 
-Ejemplos de código para procesar pagos con Banorte Payworks en PHP
+Ejemplos de código para procesar pagos con Banorte Payworks en PHP.
 
-Arturo León
-arturo@pincel.mx
+Arturo León arturo@pincel.mx
+
+http://www.arturoleon.net
