@@ -1,4 +1,4 @@
-Banorte-Payworks-PHP
+Ejemplos PHP de Banorte Payworks
 ====================
 
 Ejemplos de código para procesar pagos con Banorte Payworks en PHP.
