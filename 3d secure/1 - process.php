@@ -14,8 +14,8 @@
     <input type="hidden" value="21874" name="MerchantId">
     <input type="hidden" value="Super Store" name="MerchantName">
     <input type="hidden" value="Monterrey" name="MerchantCity">
-    <input type="hidden" value="http://pincel.mx/test3d/2 - response_3D.php" name="ForwardPath">
-	<input type="hidden" value="https://pincel.mx/payworks.php" name="MerchantURL">
+    <input type="hidden" value="http://domino.com/2 - response_3D.php" name="ForwardPath">
+	<input type="hidden" value="https://pincel.mx/" name="MerchantURL">
     <input type="hidden" value="01" name="PlanType">
     <input type="hidden" value="<?=($_REQUEST['NumberOfPayments'] !='') ? $_REQUEST['NumberOfPayments'] : '00';?>" name="NumberOfPayments">
 	<input type="hidden" value="<?=($_REQUEST['NumberOfPayments'] !='') ? $_REQUEST['NumberOfPayments'] : '00';?>" name="InitialDeferment">
