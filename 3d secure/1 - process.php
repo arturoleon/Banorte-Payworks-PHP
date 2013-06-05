@@ -3,7 +3,6 @@
 <body onLoad="document.payworks_form.submit();">
 <form action="https://eps.banorte.com/secure3d/Solucion3DSecure.htm" name="payworks_form" method="post">
     <input type="hidden" value="77777777" name="Name">
-    <input type="hidden" value="ggggg" name="Password">
     <input type="hidden" value="111111" name="ClientId">
     <input type="hidden" value="Y" name="Mode">
     <input type="hidden" value="Auth" name="TransType">
